@@ -1,5 +1,7 @@
 <h1>BMI Calculator using JS</h1>
 
+https://harikamadamanchi.github.io/BMI-Calculator/index.html
+
 <p>Calculates the Body Mass Index of a person, provided with a BMI chart</p>
 
 ### Use of the Project:
